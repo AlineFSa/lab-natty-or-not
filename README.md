@@ -1,7 +1,7 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# O Futuro já chegou
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 6 páginas descreve como a tecnologia trazida pelas IAs já inicou o futuro nos tempos atuais. 
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
