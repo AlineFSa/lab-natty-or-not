@@ -8,10 +8,11 @@ IA Generativa ChatGPT para roteirização;
 IA Generativa Leonardo AI para criar a arte visual do e-book;
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. 
+Utilizei o "ChatGPT" para criar e estruturar o conteúdo deste ebook, trazendo descrições das tecnologiais autais. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book descreve sobre como a tecnologia, trazida pelas IAs, mudou a realidade do mundo e trouxe o futurismo ao nosso cotidiano. 
+LINK PARA O E-BOOK AQUI
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar este e-book trouxe conhecimento da capacidade produtiva das IAs, e como elas podem ser utilizadas e aplicadas ao meio profissional e pessoal.
