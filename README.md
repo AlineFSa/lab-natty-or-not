@@ -12,7 +12,7 @@ Utilizei o "ChatGPT" para criar e estruturar o conteúdo deste ebook, trazendo d
 
 ## 🚀 Resultados
 O e-book descreve sobre como a tecnologia, trazida pelas IAs, mudou a realidade do mundo e trouxe o futurismo ao nosso cotidiano. 
-LINK PARA O E-BOOK AQUI
+**[LINK PARA O E-BOOK AQUI](exemplos/O Futuro Já Chegou.docx)** 
 
 ## 💭 Reflexão (Opcional)
 Criar este e-book trouxe conhecimento da capacidade produtiva das IAs, e como elas podem ser utilizadas e aplicadas ao meio profissional e pessoal.
