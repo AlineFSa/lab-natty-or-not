@@ -4,7 +4,8 @@
 Este e-book de 6 páginas descreve como a tecnologia trazida pelas IAs já inicou o futuro nos tempos atuais. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Leonardo AI para criar a arte visual do e-book;
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
